@@ -35,6 +35,5 @@ collections:
 
 # Build settings
 markdown: kramdown
-#theme: minima
 
 exclude: [vendor]
